@@ -1,6 +1,6 @@
 
 <br>
-<a href="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756.png"><img class="wp-image-11788 size-medium" src="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756-300x300.png" alt="" width="600" height="600" /><br>
+<a href="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756.png"><img class="wp-image-11788 size-medium" src="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756-300x300.png" alt="" width="400" height="400" /><br>
 </a> a snapshot from the puzzle[/caption]
 <h2 class="p1">Inspiration:</h2>
 <p class="p1">My inspiration for this game was my puzzle assignments from Intro to CS that involved matrices calculations and boards (tik tac to, connect 4, etc.) and also this artwork in the Arts Center hallway:</p>
