@@ -1,4 +1,6 @@
-[caption id="attachment_11788" align="alignnone" width="300"]<a href="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756.png"><img class="wp-image-11788 size-medium" src="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756-300x300.png" alt="" width="300" height="300" /></a> a snapshot from the puzzle[/caption]
+[caption id="attachment_11788" align="alignnone" width="300"]
+<br>
+<a href="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756.png"><img class="wp-image-11788 size-medium" src="https://intro.nyuadim.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-14-at-12.16.00-AM-e1665991513756-300x300.png" alt="" width="300" height="300" /></a> a snapshot from the puzzle[/caption]
 <h2 class="p1">Inspiration:</h2>
 <p class="p1">My inspiration for this game was my puzzle assignments from Intro to CS that involved matrices calculations and boards (tik tac to, connect 4, etc.) and also this artwork in the Arts Center hallway:</p>
 <a href="https://intro.nyuadim.com/wp-content/uploads/2022/10/IMG_7172-scaled.jpeg"><img class="alignnone wp-image-11790" src="https://intro.nyuadim.com/wp-content/uploads/2022/10/IMG_7172-225x300.jpeg" alt="" width="717" height="956" /></a>
